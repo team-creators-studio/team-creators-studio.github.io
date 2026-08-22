@@ -46,7 +46,7 @@ a{
 }
 
 .link_p{
-  font-family: 'Tilt Warp';font-size: 18px;
+  font-family: 'Tilt Warp';font-size: 22px;
 }
 
 .text_p{
@@ -105,4 +105,8 @@ a{
   mask-size: contain;
   -webkit-mask-repeat: no-repeat;
   z-index: 3;
+}
+
+.coming_soon{
+  border-style: solid;
 }
