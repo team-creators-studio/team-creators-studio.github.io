@@ -3,7 +3,11 @@
 @import url('https://fonts.googleapis.com/css?family=Suwannaphum');
 
 body {
-  background-color: rgb(73, 73, 73);
+  background-color: rgb(2, 2, 2);
+}
+
+div{
+  color: aliceblue;
 }
 
 a{
@@ -47,6 +51,7 @@ a{
 
 .link_p{
   font-family: 'Tilt Warp';font-size: 22px;
+  word-spacing: 90%;
 }
 
 .text_p{
