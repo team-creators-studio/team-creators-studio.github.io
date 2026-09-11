@@ -27,7 +27,7 @@ a{
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  -webkit-text-stroke: 1px rgb(71, 71, 71);
+  -webkit-text-stroke: 0.5px rgb(12, 12, 12);
 }
 
 
@@ -112,6 +112,3 @@ a{
   z-index: 3;
 }
 
-.coming_soon{
-  border-style: solid;
-}
